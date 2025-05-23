@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+pytest
+pytest-cov
+flake8
+black
+isort
+codecov
